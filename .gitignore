@@ -1,0 +1,19 @@
+# Build Directories
+cmake-build-debug/
+build/
+out/
+x64/
+Debug/
+Release/
+
+# IDE Settings
+.idea/
+.vscode/
+
+# Binary Files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
